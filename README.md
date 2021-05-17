@@ -1,4 +1,4 @@
-# Infection Mechanism and Spectrum Prediction (IMSP) Model
+# Infection Mechanism and Spectrum Prediction (IMSP)
 
 Hangyu Du*, Feng Chen*, Hongfu Liu, and Pengyu Hong "[Network-based Virus-Host Interaction Prediction with Application to SARS-CoV-2](https://www.cell.com/patterns/fulltext/S2666-3899(21)00062-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921000623%3Fshowall%3Dtrue)", Cell Patterns Volumn 2, Issue 5. (* indicates equal contribution)
 
