@@ -1,0 +1,1048 @@
+Source Name,Target Name,Certainty,Confidence,Likelihood
+MDA5 Rattus norvegicus,ORF6 Severe acute respiratory syndrome-related coronavirus,97.57%,strong,likely
+M protein Middle East respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,97.56%,strong,likely
+MDA5 Homo sapiens,ORF6 Severe acute respiratory syndrome-related coronavirus,96.98%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,RIG-I Rattus norvegicus,96.84%,strong,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,96.60%,strong,likely
+NF-kB Rattus norvegicus,ORF6 Severe acute respiratory syndrome-related coronavirus,96.58%,strong,likely
+NF-kB Homo sapiens,ORF6 Severe acute respiratory syndrome-related coronavirus,96.22%,strong,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,96.19%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,MDA5 Rattus norvegicus,96.11%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,96.08%,strong,likely
+IRF3 Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,96.03%,strong,likely
+NF-kB Homo sapiens,ORF3b Severe acute respiratory syndrome-related coronavirus,95.95%,strong,likely
+RIG-I Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,95.76%,strong,likely
+NF-kB Rattus norvegicus,ORF3b Severe acute respiratory syndrome-related coronavirus,95.75%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,NF-kB Rhinolophus ferrumequinum,95.66%,strong,likely
+RIG-I Rattus norvegicus,ORF6 Severe acute respiratory syndrome-related coronavirus,95.24%,strong,likely
+M protein Middle East respiratory syndrome-related coronavirus,MAVS Mus musculus,95.18%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF3 Rattus norvegicus,94.62%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF3 Homo sapiens,94.38%,strong,likely
+IRF3 Rhinolophus ferrumequinum,PLpro Middle East respiratory syndrome-related coronavirus,93.94%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,RIG-I Rattus norvegicus,93.44%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF3 Rattus norvegicus,93.35%,strong,likely
+MDA5 Homo sapiens,ORF6 Severe acute respiratory syndrome coronavirus 2,93.04%,strong,likely
+IRF3 Felis catus,PLpro Middle East respiratory syndrome-related coronavirus,92.94%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MDA5 Rattus norvegicus,92.80%,strong,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,TBK1 Homo sapiens,92.15%,strong,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,TBK1 Homo sapiens,91.66%,strong,likely
+M protein Middle East respiratory syndrome-related coronavirus,MAVS Homo sapiens,91.42%,strong,likely
+RIG-I Rattus norvegicus,ORF4b Middle East respiratory syndrome-related coronavirus,91.29%,strong,likely
+RIG-I Mus musculus,ORF6 Severe acute respiratory syndrome-related coronavirus,91.17%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,TBK1 Homo sapiens,91.12%,strong,likely
+IRF3 Macaca mulatta,ORF3b Severe acute respiratory syndrome-related coronavirus,90.64%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,MDA5 Camelus dromedarius,90.17%,strong,likely
+NF-kB Mus musculus,ORF6 Severe acute respiratory syndrome-related coronavirus,89.85%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,MDA5 Homo sapiens,89.36%,strong,likely
+ACE2 Mus musculus,ORF6 Severe acute respiratory syndrome coronavirus 2,89.31%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,MAVS Homo sapiens,89.29%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,89.09%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,TBK1 Camelus dromedarius,89.06%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,MDA5 Homo sapiens,89.03%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,TBK1 Mus musculus,88.94%,strong,likely
+M protein Middle East respiratory syndrome-related coronavirus,MAVS Camelus dromedarius,88.46%,strong,likely
+RIG-I Rattus norvegicus,PLpro Severe acute respiratory syndrome-related coronavirus,88.27%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MDA5 Homo sapiens,88.11%,strong,likely
+IRF7 Homo sapiens,ORF3b Severe acute respiratory syndrome-related coronavirus,88.11%,strong,likely
+MDA5 Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,88.10%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF3 Rhinolophus ferrumequinum,88.01%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,STAT2 Rattus norvegicus,87.97%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,MDA5 Mus musculus,87.90%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,MDA5 Rattus norvegicus,87.85%,strong,likely
+RIG-I Mus musculus,ORF4b Middle East respiratory syndrome-related coronavirus,87.72%,strong,likely
+RIG-I Rattus norvegicus,ORF4a Middle East respiratory syndrome-related coronavirus,87.64%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,STAT2 Homo sapiens,87.31%,strong,likely
+STAT1 Rhinolophus ferrumequinum,ORF6 Severe acute respiratory syndrome coronavirus 2,87.24%,strong,likely
+MDA5 Mus musculus,ORF6 Severe acute respiratory syndrome-related coronavirus,87.19%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,IRF7 Homo sapiens,87.10%,strong,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,87.10%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,RIG-I Mus musculus,86.85%,strong,likely
+NF-kB Mus musculus,ORF3b Severe acute respiratory syndrome-related coronavirus,86.83%,strong,likely
+NF-kB Homo sapiens,ORF6 Severe acute respiratory syndrome coronavirus 2,86.81%,strong,likely
+STAT1 Homo sapiens,N protein Severe acute respiratory syndrome-related coronavirus,86.76%,strong,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,MAVS Homo sapiens,86.13%,strong,likely
+NF-kB Macaca mulatta,ORF6 Severe acute respiratory syndrome coronavirus 2,85.83%,strong,likely
+IRF3 Mus musculus,ORF6 Severe acute respiratory syndrome coronavirus 2,85.57%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,STAT2 Rhinolophus ferrumequinum,85.51%,strong,likely
+NF-kB Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,85.24%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,TBK1 Felis catus,85.11%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF3 Mus musculus,84.94%,strong,likely
+RIG-I Rattus norvegicus,nsp1 Severe acute respiratory syndrome-related coronavirus,84.84%,strong,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,TBK1 Mus musculus,84.54%,strong,likely
+RIG-I Mus musculus,ORF6 Severe acute respiratory syndrome coronavirus 2,84.46%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,NF-kB Homo sapiens,84.32%,strong,likely
+STAT1 Homo sapiens,ORF6 Severe acute respiratory syndrome coronavirus 2,84.02%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MAVS Felis catus,83.35%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MAVS Homo sapiens,83.23%,strong,likely
+STAT1 Rhinolophus ferrumequinum,N protein Severe acute respiratory syndrome-related coronavirus,82.93%,strong,likely
+IRF3 Rhinolophus ferrumequinum,M protein Severe acute respiratory syndrome coronavirus 2,82.72%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MDA5 Homo sapiens,82.71%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,STAT2 Rhinolophus ferrumequinum,82.47%,strong,likely
+NF-kB Macaca mulatta,PLpro Middle East respiratory syndrome-related coronavirus,82.39%,strong,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,MAVS Mus musculus,82.08%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,NF-kB Rattus norvegicus,82.00%,strong,likely
+IRF3 Mesocricetus auratus,ORF3b Severe acute respiratory syndrome-related coronavirus,81.91%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,81.91%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Rattus norvegicus,81.76%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,STAT2 Homo sapiens,81.69%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,TBK1 Rattus norvegicus,81.50%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,MAVS Rattus norvegicus,81.49%,strong,likely
+IRF7 Homo sapiens,ORF6 Severe acute respiratory syndrome-related coronavirus,81.45%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MDA5 Rattus norvegicus,80.85%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT1 Rhinolophus ferrumequinum,80.83%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF3 Felis catus,80.81%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,PRKRA Camelus dromedarius,80.46%,strong,likely
+IRF3 Canis lupus familiaris,M protein Severe acute respiratory syndrome-related coronavirus,80.41%,strong,likely
+IRF3 Ovis aries,ORF3b Severe acute respiratory syndrome-related coronavirus,80.24%,strong,likely
+IRF3 Macaca mulatta,N protein Severe acute respiratory syndrome-related coronavirus,80.19%,strong,likely
+STAT1 Camelus dromedarius,PLpro Middle East respiratory syndrome-related coronavirus,80.19%,strong,likely
+STAT2 Rattus norvegicus,PLpro Severe acute respiratory syndrome-related coronavirus,80.08%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,PRKRA Mus musculus,80.02%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MAVS Rattus norvegicus,80.00%,strong,likely
+NF-kB Ovis aries,PLpro Middle East respiratory syndrome-related coronavirus,79.74%,strong,likely
+NF-kB Rhinolophus ferrumequinum,PLpro Middle East respiratory syndrome-related coronavirus,79.68%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,79.67%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,79.32%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF3 Mus musculus,79.25%,strong,likely
+RIG-I Canis lupus familiaris,M protein Severe acute respiratory syndrome-related coronavirus,79.21%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,NF-kB Rattus norvegicus,78.98%,strong,likely
+MDA5 Rattus norvegicus,PLpro Severe acute respiratory syndrome-related coronavirus,78.79%,strong,likely
+STAT1 Mesocricetus auratus,ORF3b Severe acute respiratory syndrome-related coronavirus,78.69%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,PRKRA Homo sapiens,78.54%,strong,likely
+IRF7 Rattus norvegicus,ORF3b Severe acute respiratory syndrome-related coronavirus,78.19%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,NF-kB Homo sapiens,78.17%,strong,likely
+RIG-I Mesocricetus auratus,nsp1 Severe acute respiratory syndrome-related coronavirus,78.04%,strong,likely
+MDA5 Homo sapiens,PLpro Severe acute respiratory syndrome-related coronavirus,77.93%,strong,likely
+IRF3 Felis catus,M protein Severe acute respiratory syndrome coronavirus 2,77.92%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,ACE2 Felis catus,77.84%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF3 Macaca mulatta,77.65%,strong,likely
+NF-kB Rattus norvegicus,M protein Middle East respiratory syndrome-related coronavirus,77.50%,strong,likely
+IRF9 Rhinolophus ferrumequinum,ORF6 Severe acute respiratory syndrome coronavirus 2,77.46%,strong,likely
+M protein Severe acute respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,77.40%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF3 Mesocricetus auratus,77.40%,strong,likely
+STAT1 Felis catus,N protein Severe acute respiratory syndrome-related coronavirus,77.37%,strong,likely
+IRF3 Felis catus,ORF4a Middle East respiratory syndrome-related coronavirus,77.31%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,NF-kB Rattus norvegicus,77.20%,strong,likely
+IRF3 Macaca mulatta,ORF6 Severe acute respiratory syndrome-related coronavirus,77.15%,strong,likely
+M protein Severe acute respiratory syndrome-related coronavirus,MAVS Felis catus,77.06%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,MAVS Rhinolophus ferrumequinum,76.87%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT1 Mus musculus,76.80%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,RIG-I Homo sapiens,76.74%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MAVS Rhinolophus ferrumequinum,76.70%,strong,likely
+Spike Human coronavirus NL63,ACE2 Felis catus,76.58%,strong,likely
+NF-kB Rhinolophus ferrumequinum,ORF6 Severe acute respiratory syndrome-related coronavirus,76.46%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,STAT2 Felis catus,76.31%,strong,likely
+NF-kB Camelus dromedarius,M protein Middle East respiratory syndrome-related coronavirus,76.28%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT1 Rattus norvegicus,76.26%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,STAT2 Rattus norvegicus,76.12%,strong,likely
+Spike Human coronavirus 229E,ACE2 Homo sapiens,75.74%,strong,likely
+MDA5 Felis catus,ORF6 Severe acute respiratory syndrome-related coronavirus,75.59%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Rhinolophus ferrumequinum,75.45%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT1 Rhinolophus ferrumequinum,75.31%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,IRF7 Rattus norvegicus,75.23%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,NF-kB Homo sapiens,75.22%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,75.17%,strong,likely
+IRF9 Homo sapiens,nsp1 Severe acute respiratory syndrome-related coronavirus,75.15%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT1 Homo sapiens,75.08%,strong,likely
+NF-kB Camelus dromedarius,M protein Severe acute respiratory syndrome-related coronavirus,74.99%,strong,likely
+RIG-I Rattus norvegicus,M protein Severe acute respiratory syndrome-related coronavirus,74.98%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,IRF7 Camelus dromedarius,74.84%,strong,likely
+RIG-I Mus musculus,ORF4a Middle East respiratory syndrome-related coronavirus,74.78%,strong,likely
+Spike Severe acute respiratory syndrome-related coronavirus,ACE2 Camelus dromedarius,74.40%,strong,likely
+STAT1 Felis catus,ORF6 Severe acute respiratory syndrome coronavirus 2,74.33%,strong,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,DPP4 Homo sapiens,74.29%,strong,likely
+STAT2 Felis catus,M protein Severe acute respiratory syndrome-related coronavirus,74.23%,strong,likely
+PLpro Middle East respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,74.03%,strong,likely
+Spike Severe acute respiratory syndrome coronavirus 2,ACE2 Rattus norvegicus,73.97%,strong,likely
+IRF3 Rhinolophus ferrumequinum,ORF4a Middle East respiratory syndrome-related coronavirus,73.92%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Mesocricetus auratus,73.86%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT2 Rhinolophus ferrumequinum,73.77%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,NF-kB Camelus dromedarius,73.59%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,NF-kB Rattus norvegicus,73.55%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,ACE2 Mus musculus,73.31%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,TBK1 Homo sapiens,73.20%,strong,likely
+ACE2 Felis catus,ORF6 Severe acute respiratory syndrome coronavirus 2,72.94%,strong,likely
+Spike Severe acute respiratory syndrome coronavirus 2,ACE2 Camelus dromedarius,72.88%,strong,likely
+STAT1 Homo sapiens,PLpro Severe acute respiratory syndrome-related coronavirus,72.58%,strong,likely
+ACE2 Mus musculus,ORF6 Severe acute respiratory syndrome-related coronavirus,72.54%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,NF-kB Rhinolophus ferrumequinum,72.48%,strong,likely
+STAT2 Homo sapiens,PLpro Severe acute respiratory syndrome-related coronavirus,72.42%,strong,likely
+RIG-I Mesocricetus auratus,N protein Severe acute respiratory syndrome-related coronavirus,72.13%,strong,likely
+NF-kB Rhinolophus ferrumequinum,ORF3b Severe acute respiratory syndrome-related coronavirus,72.12%,strong,likely
+M protein Severe acute respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,72.09%,strong,likely
+ACE2 Homo sapiens,ORF4a Middle East respiratory syndrome-related coronavirus,72.04%,strong,likely
+PLpro Severe acute respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,71.98%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,DPP4 Mus musculus,71.90%,strong,likely
+IRF9 Homo sapiens,N protein Severe acute respiratory syndrome-related coronavirus,71.86%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,TBK1 Mesocricetus auratus,71.80%,strong,likely
+MDA5 Rattus norvegicus,M protein Middle East respiratory syndrome-related coronavirus,71.74%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF3 Rhinolophus ferrumequinum,71.50%,strong,likely
+RIG-I Macaca mulatta,ORF3b Severe acute respiratory syndrome-related coronavirus,70.99%,strong,likely
+RIG-I Mus musculus,nsp1 Severe acute respiratory syndrome-related coronavirus,70.97%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,STAT2 Felis catus,70.97%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,ACE2 Sus scrofa domesticus,70.96%,strong,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,STAT2 Macaca mulatta,70.77%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,ACE2 Homo sapiens,70.68%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,TBK1 Rhinolophus ferrumequinum,70.62%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,DPP4 Mus musculus,70.56%,strong,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,70.52%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,STAT2 Ovis aries,70.47%,strong,likely
+MDA5 Homo sapiens,M protein Severe acute respiratory syndrome-related coronavirus,70.25%,strong,likely
+IRF3 Camelus dromedarius,ORF3b Severe acute respiratory syndrome-related coronavirus,70.07%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,RIG-I Mesocricetus auratus,69.54%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,NF-kB Macaca mulatta,69.46%,strong,likely
+IRF9 Rattus norvegicus,nsp1 Severe acute respiratory syndrome-related coronavirus,69.40%,strong,likely
+IRF9 Rattus norvegicus,N protein Severe acute respiratory syndrome-related coronavirus,69.20%,strong,likely
+NF-kB Mesocricetus auratus,ORF6 Severe acute respiratory syndrome coronavirus 2,68.86%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,STAT2 Felis catus,68.85%,strong,likely
+STAT1 Rattus norvegicus,PLpro Severe acute respiratory syndrome-related coronavirus,68.67%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,STAT2 Felis catus,68.60%,strong,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,STAT2 Mesocricetus auratus,68.44%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,TBK1 Homo sapiens,68.42%,strong,likely
+RIG-I Homo sapiens,PLpro Middle East respiratory syndrome-related coronavirus,68.41%,strong,likely
+IRF3 Mesocricetus auratus,N protein Severe acute respiratory syndrome-related coronavirus,68.39%,strong,likely
+ACE2 Felis catus,ORF3b Severe acute respiratory syndrome-related coronavirus,68.36%,strong,likely
+NF-kB Rhinolophus ferrumequinum,ORF6 Severe acute respiratory syndrome coronavirus 2,68.27%,strong,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,MAVS Homo sapiens,68.10%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,67.79%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,ACE2 Felis catus,67.78%,strong,likely
+IRF3 Homo sapiens,M protein Severe acute respiratory syndrome coronavirus 2,67.73%,strong,likely
+IRF9 Rhinolophus ferrumequinum,N protein Severe acute respiratory syndrome-related coronavirus,67.71%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,STAT2 Mus musculus,67.58%,strong,likely
+PLpro Middle East respiratory syndrome-related coronavirus,TBK1 Macaca mulatta,67.47%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,MDA5 Mesocricetus auratus,67.40%,strong,likely
+RIG-I Macaca mulatta,N protein Severe acute respiratory syndrome-related coronavirus,67.20%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,MAVS Homo sapiens,67.15%,strong,likely
+Spike Severe acute respiratory syndrome coronavirus 2,ACE2 Ictidomys tridecemlineatus,66.99%,strong,likely
+STAT1 Rhinolophus ferrumequinum,ORF4b Middle East respiratory syndrome-related coronavirus,66.96%,strong,likely
+Spike Human coronavirus 229E,ACE2 Rhinolophus ferrumequinum,66.95%,strong,likely
+DPP4 Homo sapiens,PLpro Middle East respiratory syndrome-related coronavirus,66.89%,strong,likely
+Spike Human coronavirus OC43,ACE2 Homo sapiens,66.61%,strong,likely
+IRF7 Rattus norvegicus,ORF6 Severe acute respiratory syndrome-related coronavirus,66.59%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF3 Mesocricetus auratus,66.47%,strong,likely
+IRF3 Ictidomys tridecemlineatus,N protein Severe acute respiratory syndrome-related coronavirus,66.45%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,TBK1 Felis catus,66.25%,strong,likely
+Spike Severe acute respiratory syndrome-related coronavirus,ACE2 Rattus norvegicus,65.77%,strong,likely
+IRF3 Ovis aries,ORF6 Severe acute respiratory syndrome coronavirus 2,65.46%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,PRKRA Rattus norvegicus,65.34%,strong,likely
+MDA5 Felis catus,ORF6 Severe acute respiratory syndrome coronavirus 2,65.17%,strong,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,TBK1 Mesocricetus auratus,65.16%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,ACE2 Rattus norvegicus,64.83%,strong,likely
+NF-kB Mus musculus,ORF6 Severe acute respiratory syndrome coronavirus 2,64.43%,strong,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,TBK1 Macaca mulatta,63.92%,strong,likely
+IRF3 Mesocricetus auratus,M protein Severe acute respiratory syndrome-related coronavirus,63.67%,strong,likely
+RIG-I Mus musculus,PLpro Severe acute respiratory syndrome-related coronavirus,62.94%,strong,likely
+IRF7 Mus musculus,ORF6 Severe acute respiratory syndrome-related coronavirus,62.88%,strong,likely
+IRF9 Felis catus,M protein Middle East respiratory syndrome-related coronavirus,62.72%,strong,likely
+NF-kB Homo sapiens,M protein Severe acute respiratory syndrome coronavirus 2,61.98%,strong,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,ACE2 Camelus dromedarius,61.84%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,ACE2 Rhinolophus ferrumequinum,61.38%,strong,likely
+PLpro Middle East respiratory syndrome-related coronavirus,TBK1 Felis catus,60.99%,strong,likely
+IRF3 Macaca mulatta,PLpro Severe acute respiratory syndrome-related coronavirus,60.79%,strong,likely
+IRF9 Felis catus,PLpro Middle East respiratory syndrome-related coronavirus,60.57%,strong,likely
+STAT1 Ovis aries,ORF4b Middle East respiratory syndrome-related coronavirus,60.37%,strong,likely
+PLpro Severe acute respiratory syndrome-related coronavirus,MAVS Homo sapiens,60.01%,strong,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,MAVS Mus musculus,59.41%,strong,likely
+STAT1 Rhinolophus ferrumequinum,M protein Middle East respiratory syndrome-related coronavirus,59.37%,strong,likely
+STAT1 Felis catus,ORF4a Middle East respiratory syndrome-related coronavirus,58.80%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,ACE2 Rhinolophus ferrumequinum,58.76%,strong,likely
+Spike Human coronavirus NL63,ACE2 Rattus norvegicus,58.12%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF3 Camelus dromedarius,57.92%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MAVS Mesocricetus auratus,57.22%,strong,likely
+DPP4 Mus musculus,PLpro Middle East respiratory syndrome-related coronavirus,56.96%,strong,likely
+M protein Middle East respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,56.94%,strong,likely
+IRF3 Homo sapiens,ORF4a Human coronavirus 229E,56.91%,strong,likely
+PLpro Middle East respiratory syndrome-related coronavirus,TBK1 Ovis aries,56.71%,strong,likely
+ACE2 Rattus norvegicus,ORF4a Middle East respiratory syndrome-related coronavirus,56.11%,strong,likely
+IRF3 Macaca mulatta,PLpro Middle East respiratory syndrome-related coronavirus,55.13%,strong,likely
+ACE2 Mus musculus,PLpro Middle East respiratory syndrome-related coronavirus,54.79%,strong,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,NF-kB Mus musculus,54.70%,strong,likely
+IRF3 Macaca mulatta,M protein Severe acute respiratory syndrome-related coronavirus,54.68%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF3 Ovis aries,54.51%,strong,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,STAT2 Mesocricetus auratus,54.43%,strong,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,ACE2 Mus musculus,54.41%,strong,likely
+IRF3 Equus caballus,ORF3b Severe acute respiratory syndrome-related coronavirus,54.22%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF3 Ovis aries,53.40%,strong,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,DPP4 Rhinolophus ferrumequinum,52.47%,strong,likely
+DPP4 Rattus norvegicus,PLpro Middle East respiratory syndrome-related coronavirus,52.35%,strong,likely
+STAT1 Rattus norvegicus,nsp1 Middle East respiratory syndrome-related coronavirus,50.44%,strong,likely
+N protein Severe acute respiratory syndrome-related coronavirus,ACE2 Mus musculus,49.40%,strong,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Homo sapiens,98.92%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,TBK1 Mus musculus,98.61%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT2 Homo sapiens,98.54%,weak,likely
+PLpro Severe acute respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,98.42%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,TBK1 Homo sapiens,97.75%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF9 Homo sapiens,97.68%,weak,likely
+RIG-I Homo sapiens,ORF6 Severe acute respiratory syndrome-related coronavirus,97.56%,weak,likely
+PLpro Severe acute respiratory syndrome-related coronavirus,MAVS Felis catus,97.00%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF9 Homo sapiens,96.52%,weak,likely
+IRF9 Homo sapiens,ORF6 Severe acute respiratory syndrome coronavirus 2,96.04%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,TBK1 Homo sapiens,96.03%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,TBK1 Homo sapiens,95.87%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT1 Homo sapiens,95.68%,weak,likely
+NF-kB Macaca mulatta,ORF3b Severe acute respiratory syndrome-related coronavirus,95.45%,weak,likely
+NF-kB Homo sapiens,M protein Middle East respiratory syndrome-related coronavirus,95.28%,weak,likely
+RIG-I Macaca mulatta,PLpro Middle East respiratory syndrome-related coronavirus,95.18%,weak,likely
+STAT2 Homo sapiens,M protein Severe acute respiratory syndrome-related coronavirus,95.10%,weak,likely
+RIG-I Mesocricetus auratus,ORF3b Severe acute respiratory syndrome-related coronavirus,94.82%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF9 Rattus norvegicus,94.61%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,MAVS Mus musculus,94.43%,weak,likely
+MDA5 Camelus dromedarius,PLpro Middle East respiratory syndrome-related coronavirus,94.35%,weak,likely
+NF-kB Mus musculus,M protein Middle East respiratory syndrome-related coronavirus,94.00%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,93.84%,weak,likely
+RIG-I Canis lupus familiaris,ORF3b Severe acute respiratory syndrome-related coronavirus,93.39%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,TBK1 Homo sapiens,93.28%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,IRF7 Mus musculus,93.14%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT2 Rattus norvegicus,92.72%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,ACE2 Camelus dromedarius,92.32%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF9 Rhinolophus ferrumequinum,92.22%,weak,likely
+RIG-I Mesocricetus auratus,ORF6 Severe acute respiratory syndrome-related coronavirus,92.05%,weak,likely
+MDA5 Homo sapiens,M protein Middle East respiratory syndrome-related coronavirus,91.79%,weak,likely
+RIG-I Homo sapiens,ORF4b Middle East respiratory syndrome-related coronavirus,91.75%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,TBK1 Rhinolophus ferrumequinum,91.75%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Mus musculus,91.74%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,TBK1 Rattus norvegicus,91.70%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,MAVS Mus musculus,91.49%,weak,likely
+PRKRA Homo sapiens,ORF6 Severe acute respiratory syndrome-related coronavirus,91.48%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,NF-kB Homo sapiens,91.17%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF9 Rhinolophus ferrumequinum,91.07%,weak,likely
+IRF7 Camelus dromedarius,M protein Middle East respiratory syndrome-related coronavirus,90.76%,weak,likely
+IRF3 Camelus dromedarius,ORF6 Severe acute respiratory syndrome-related coronavirus,90.76%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Felis catus,90.65%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT1 Felis catus,90.46%,weak,likely
+IRF3 Canis lupus familiaris,ORF3b Severe acute respiratory syndrome-related coronavirus,90.35%,weak,likely
+PRKRA Homo sapiens,ORF3b Severe acute respiratory syndrome-related coronavirus,90.22%,weak,likely
+IRF9 Homo sapiens,M protein Severe acute respiratory syndrome-related coronavirus,90.13%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,TBK1 Mus musculus,90.03%,weak,likely
+IRF7 Mus musculus,M protein Middle East respiratory syndrome-related coronavirus,89.89%,weak,likely
+NF-kB Macaca mulatta,M protein Severe acute respiratory syndrome-related coronavirus,89.81%,weak,likely
+IRF3 Mesocricetus auratus,ORF6 Severe acute respiratory syndrome-related coronavirus,89.76%,weak,likely
+RIG-I Canis lupus familiaris,ORF6 Severe acute respiratory syndrome-related coronavirus,89.45%,weak,likely
+RIG-I Macaca mulatta,ORF6 Severe acute respiratory syndrome-related coronavirus,89.43%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,RIG-I Mus musculus,89.42%,weak,likely
+IRF7 Rattus norvegicus,M protein Middle East respiratory syndrome-related coronavirus,89.11%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF9 Felis catus,89.09%,weak,likely
+STAT1 Homo sapiens,M protein Severe acute respiratory syndrome-related coronavirus,88.95%,weak,likely
+MDA5 Felis catus,M protein Severe acute respiratory syndrome-related coronavirus,88.75%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,TBK1 Felis catus,88.71%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,DPP4 Homo sapiens,88.69%,weak,likely
+STAT1 Felis catus,PLpro Severe acute respiratory syndrome-related coronavirus,88.56%,weak,likely
+PRKRA Homo sapiens,M protein Middle East respiratory syndrome-related coronavirus,88.49%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,88.38%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,88.26%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF3 Ictidomys tridecemlineatus,87.86%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,IRF3 Mus musculus,87.73%,weak,likely
+MDA5 Rattus norvegicus,M protein Severe acute respiratory syndrome-related coronavirus,87.57%,weak,likely
+IRF3 Ovis aries,ORF6 Severe acute respiratory syndrome-related coronavirus,87.43%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,ACE2 Homo sapiens,87.36%,weak,likely
+STAT2 Rattus norvegicus,M protein Severe acute respiratory syndrome-related coronavirus,87.22%,weak,likely
+STAT1 Camelus dromedarius,ORF3b Severe acute respiratory syndrome-related coronavirus,87.16%,weak,likely
+STAT2 Mesocricetus auratus,PLpro Severe acute respiratory syndrome-related coronavirus,87.13%,weak,likely
+IRF9 Homo sapiens,PLpro Severe acute respiratory syndrome-related coronavirus,86.72%,weak,likely
+IRF3 Canis lupus familiaris,ORF6 Severe acute respiratory syndrome-related coronavirus,86.53%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,ACE2 Camelus dromedarius,86.30%,weak,likely
+IRF9 Felis catus,ORF6 Severe acute respiratory syndrome coronavirus 2,86.03%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF9 Felis catus,85.85%,weak,likely
+RIG-I Canis lupus familiaris,N protein Severe acute respiratory syndrome-related coronavirus,85.78%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,NF-kB Mus musculus,85.77%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF9 Mus musculus,85.65%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,DPP4 Rattus norvegicus,85.32%,weak,likely
+IRF7 Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,85.28%,weak,likely
+RIG-I Mesocricetus auratus,ORF4a Middle East respiratory syndrome-related coronavirus,85.15%,weak,likely
+STAT1 Rattus norvegicus,N protein Severe acute respiratory syndrome-related coronavirus,85.13%,weak,likely
+STAT2 Mus musculus,PLpro Severe acute respiratory syndrome-related coronavirus,84.98%,weak,likely
+IRF3 Ovis aries,N protein Severe acute respiratory syndrome-related coronavirus,84.97%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,ACE2 Rattus norvegicus,84.93%,weak,likely
+IRF3 Rhinolophus ferrumequinum,M protein Middle East respiratory syndrome-related coronavirus,84.77%,weak,likely
+PLpro Middle East respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,84.48%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,DPP4 Homo sapiens,84.41%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF7 Homo sapiens,84.30%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,NF-kB Rhinolophus ferrumequinum,84.28%,weak,likely
+NF-kB Mesocricetus auratus,ORF3b Severe acute respiratory syndrome-related coronavirus,84.18%,weak,likely
+ACE2 Camelus dromedarius,ORF6 Severe acute respiratory syndrome coronavirus 2,83.99%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,MAVS Bos taurus,83.87%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,ACE2 Felis catus,83.78%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,NF-kB Camelus dromedarius,83.65%,weak,likely
+IRF3 Macaca mulatta,ORF4a Middle East respiratory syndrome-related coronavirus,83.53%,weak,likely
+IRF3 Canis lupus familiaris,PLpro Severe acute respiratory syndrome-related coronavirus,83.39%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,PRKRA Mus musculus,83.33%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,DPP4 Rattus norvegicus,83.29%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,NF-kB Rhinolophus ferrumequinum,83.26%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,STAT2 Ovis aries,83.21%,weak,likely
+ACE2 Homo sapiens,ORF3b Severe acute respiratory syndrome-related coronavirus,83.15%,weak,likely
+IRF3 Mesocricetus auratus,ORF4a Middle East respiratory syndrome-related coronavirus,83.12%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF7 Rattus norvegicus,83.02%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT2 Felis catus,82.94%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,DPP4 Rattus norvegicus,82.91%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,TBK1 Mus musculus,82.53%,weak,likely
+IRF9 Rattus norvegicus,PLpro Severe acute respiratory syndrome-related coronavirus,82.52%,weak,likely
+RIG-I Homo sapiens,ORF4a Middle East respiratory syndrome-related coronavirus,82.38%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,82.01%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,PRKRA Homo sapiens,81.89%,weak,likely
+IRF9 Mus musculus,PLpro Middle East respiratory syndrome-related coronavirus,81.88%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MDA5 Felis catus,81.87%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,ACE2 Homo sapiens,81.81%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,NF-kB Mesocricetus auratus,81.75%,weak,likely
+NF-kB Mesocricetus auratus,ORF6 Severe acute respiratory syndrome-related coronavirus,81.71%,weak,likely
+ACE2 Homo sapiens,ORF6 Severe acute respiratory syndrome-related coronavirus,81.66%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MDA5 Mus musculus,81.66%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,NF-kB Camelus dromedarius,81.53%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,TBK1 Felis catus,81.30%,weak,likely
+PRKRA Homo sapiens,PLpro Middle East respiratory syndrome-related coronavirus,81.21%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF9 Rattus norvegicus,81.17%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,NF-kB Rhinolophus ferrumequinum,81.10%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,MAVS Camelus dromedarius,80.73%,weak,likely
+DPP4 Camelus dromedarius,PLpro Middle East respiratory syndrome-related coronavirus,80.72%,weak,likely
+IRF9 Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,80.59%,weak,likely
+STAT2 Felis catus,PLpro Severe acute respiratory syndrome-related coronavirus,80.38%,weak,likely
+IRF7 Camelus dromedarius,PLpro Middle East respiratory syndrome-related coronavirus,80.36%,weak,likely
+NF-kB Mesocricetus auratus,PLpro Middle East respiratory syndrome-related coronavirus,80.26%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT1 Felis catus,80.23%,weak,likely
+STAT2 Mus musculus,M protein Severe acute respiratory syndrome-related coronavirus,80.10%,weak,likely
+IRF9 Mus musculus,PLpro Severe acute respiratory syndrome-related coronavirus,79.89%,weak,likely
+PRKRA Rattus norvegicus,ORF3b Severe acute respiratory syndrome-related coronavirus,79.84%,weak,likely
+STAT2 Rhinolophus ferrumequinum,PLpro Middle East respiratory syndrome-related coronavirus,79.81%,weak,likely
+IRF3 Canis lupus familiaris,N protein Severe acute respiratory syndrome-related coronavirus,79.77%,weak,likely
+IRF7 Mus musculus,PLpro Middle East respiratory syndrome-related coronavirus,79.75%,weak,likely
+RIG-I Mesocricetus auratus,M protein Middle East respiratory syndrome-related coronavirus,79.38%,weak,likely
+STAT2 Felis catus,M protein Middle East respiratory syndrome-related coronavirus,79.26%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF7 Homo sapiens,79.18%,weak,likely
+RIG-I Rattus norvegicus,M protein Middle East respiratory syndrome-related coronavirus,79.06%,weak,likely
+PLpro Middle East respiratory syndrome-related coronavirus,MAVS Camelus dromedarius,78.96%,weak,likely
+STAT2 Felis catus,PLpro Middle East respiratory syndrome-related coronavirus,78.90%,weak,likely
+ACE2 Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,78.80%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,NF-kB Macaca mulatta,78.59%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,TBK1 Felis catus,78.48%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,STAT2 Canis lupus familiaris,78.36%,weak,likely
+MDA5 Camelus dromedarius,M protein Middle East respiratory syndrome-related coronavirus,78.29%,weak,likely
+IRF3 Camelus dromedarius,N protein Severe acute respiratory syndrome-related coronavirus,78.18%,weak,likely
+STAT2 Macaca mulatta,PLpro Severe acute respiratory syndrome-related coronavirus,78.04%,weak,likely
+DPP4 Rattus norvegicus,ORF6 Severe acute respiratory syndrome-related coronavirus,77.99%,weak,likely
+RIG-I Mus musculus,M protein Severe acute respiratory syndrome-related coronavirus,77.86%,weak,likely
+PLpro Severe acute respiratory syndrome-related coronavirus,MAVS Mesocricetus auratus,77.77%,weak,likely
+IRF9 Mus musculus,nsp1 Severe acute respiratory syndrome-related coronavirus,77.73%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,NF-kB Macaca mulatta,77.58%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,STAT2 Ovis aries,77.56%,weak,likely
+nsp15 Human coronavirus HKU1,IRF3 Rhinolophus ferrumequinum,77.55%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,TBK1 Felis catus,77.50%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,STAT2 Mus musculus,77.50%,weak,likely
+RIG-I Homo sapiens,nsp1 Severe acute respiratory syndrome-related coronavirus,77.40%,weak,likely
+RIG-I Homo sapiens,M protein Middle East respiratory syndrome-related coronavirus,77.35%,weak,likely
+IRF3 Macaca mulatta,M protein Middle East respiratory syndrome-related coronavirus,77.21%,weak,likely
+PRKRA Mus musculus,M protein Middle East respiratory syndrome-related coronavirus,77.12%,weak,likely
+PLpro Middle East respiratory syndrome-related coronavirus,MAVS Felis catus,77.11%,weak,likely
+ACE2 Camelus dromedarius,ORF4a Middle East respiratory syndrome-related coronavirus,76.97%,weak,likely
+RIG-I Mesocricetus auratus,ORF4b Middle East respiratory syndrome-related coronavirus,76.88%,weak,likely
+IRF7 Homo sapiens,ORF6 Severe acute respiratory syndrome coronavirus 2,76.88%,weak,likely
+DPP4 Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,76.84%,weak,likely
+RIG-I Mus musculus,M protein Middle East respiratory syndrome-related coronavirus,76.82%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,TBK1 Mus musculus,76.75%,weak,likely
+STAT1 Mesocricetus auratus,PLpro Severe acute respiratory syndrome-related coronavirus,76.58%,weak,likely
+STAT1 Mesocricetus auratus,N protein Severe acute respiratory syndrome-related coronavirus,76.55%,weak,likely
+RIG-I Pan troglodytes,ORF3b Severe acute respiratory syndrome-related coronavirus,76.44%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF3 Mesocricetus auratus,76.39%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MDA5 Mesocricetus auratus,76.23%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,TBK1 Macaca mulatta,76.01%,weak,likely
+NF-kB Ovis aries,ORF3b Severe acute respiratory syndrome-related coronavirus,75.93%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,NF-kB Macaca mulatta,75.78%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,75.73%,weak,likely
+PRKRA Rattus norvegicus,ORF6 Severe acute respiratory syndrome-related coronavirus,75.66%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,NF-kB Mesocricetus auratus,75.52%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,ACE2 Rhinolophus ferrumequinum,75.45%,weak,likely
+PLpro Middle East respiratory syndrome-related coronavirus,MAVS Homo sapiens,75.43%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,MAVS Felis catus,75.36%,weak,likely
+PRKRA Mus musculus,ORF6 Severe acute respiratory syndrome-related coronavirus,75.33%,weak,likely
+STAT2 Ovis aries,PLpro Middle East respiratory syndrome-related coronavirus,75.33%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF3 Canis lupus familiaris,75.29%,weak,likely
+IRF9 Sus scrofa domesticus,ORF4a Middle East respiratory syndrome-related coronavirus,75.25%,weak,likely
+STAT2 Ovis aries,M protein Middle East respiratory syndrome-related coronavirus,75.25%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,MAVS Felis catus,74.95%,weak,likely
+PRKRA Camelus dromedarius,M protein Middle East respiratory syndrome-related coronavirus,74.89%,weak,likely
+STAT1 Ovis aries,N protein Severe acute respiratory syndrome-related coronavirus,74.81%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,TBK1 Felis catus,74.77%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,DPP4 Rattus norvegicus,74.76%,weak,likely
+IRF9 Mus musculus,M protein Severe acute respiratory syndrome-related coronavirus,74.67%,weak,likely
+Spike Human coronavirus OC43,ACE2 Rhinolophus ferrumequinum,74.28%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MDA5 Felis catus,74.15%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Camelus dromedarius,74.01%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,MAVS Canis lupus familiaris,73.93%,weak,likely
+DPP4 Homo sapiens,ORF6 Severe acute respiratory syndrome-related coronavirus,73.91%,weak,likely
+IRF9 Felis catus,N protein Severe acute respiratory syndrome-related coronavirus,73.64%,weak,likely
+ACE2 Rhinolophus ferrumequinum,ORF6 Severe acute respiratory syndrome coronavirus 2,73.62%,weak,likely
+STAT2 Rattus norvegicus,PLpro Middle East respiratory syndrome-related coronavirus,73.54%,weak,likely
+IRF9 Sus scrofa domesticus,ORF3b Severe acute respiratory syndrome-related coronavirus,73.37%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT2 Mus musculus,73.33%,weak,likely
+ACE2 Rattus norvegicus,ORF3b Severe acute respiratory syndrome-related coronavirus,73.28%,weak,likely
+IRF9 Rhinolophus ferrumequinum,nsp1 Severe acute respiratory syndrome-related coronavirus,73.28%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,ACE2 Rattus norvegicus,73.24%,weak,likely
+STAT1 Macaca mulatta,ORF3b Severe acute respiratory syndrome-related coronavirus,73.07%,weak,likely
+STAT2 Camelus dromedarius,PLpro Severe acute respiratory syndrome-related coronavirus,72.89%,weak,likely
+STAT2 Mus musculus,PLpro Middle East respiratory syndrome-related coronavirus,72.83%,weak,likely
+RIG-I Pan troglodytes,N protein Severe acute respiratory syndrome-related coronavirus,72.73%,weak,likely
+MDA5 Felis catus,PLpro Severe acute respiratory syndrome-related coronavirus,72.68%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,MAVS Macaca mulatta,72.62%,weak,likely
+STAT1 Rhinolophus ferrumequinum,PLpro Severe acute respiratory syndrome-related coronavirus,72.56%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT1 Rattus norvegicus,72.51%,weak,likely
+ACE2 Homo sapiens,M protein Middle East respiratory syndrome-related coronavirus,72.51%,weak,likely
+IRF7 Rattus norvegicus,PLpro Middle East respiratory syndrome-related coronavirus,72.46%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,DPP4 Homo sapiens,72.36%,weak,likely
+STAT1 Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,72.28%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,MAVS Homo sapiens,72.21%,weak,likely
+IRF9 Rattus norvegicus,M protein Severe acute respiratory syndrome-related coronavirus,71.93%,weak,likely
+M protein Middle East respiratory syndrome-related coronavirus,MAVS Felis catus,71.88%,weak,likely
+PRKRA Mus musculus,ORF3b Severe acute respiratory syndrome-related coronavirus,71.38%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,RIG-I Canis lupus familiaris,71.38%,weak,likely
+MDA5 Mus musculus,M protein Middle East respiratory syndrome-related coronavirus,71.37%,weak,likely
+RIG-I Canis lupus familiaris,nsp1 Severe acute respiratory syndrome-related coronavirus,71.21%,weak,likely
+NF-kB Camelus dromedarius,ORF6 Severe acute respiratory syndrome-related coronavirus,70.97%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,STAT2 Macaca mulatta,70.94%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,MAVS Mesocricetus auratus,70.89%,weak,likely
+IRF3 Bos taurus,ORF3b Severe acute respiratory syndrome-related coronavirus,70.71%,weak,likely
+STAT1 Ovis aries,PLpro Middle East respiratory syndrome-related coronavirus,70.71%,weak,likely
+MDA5 Mus musculus,ORF6 Severe acute respiratory syndrome coronavirus 2,70.63%,weak,likely
+IRF7 Homo sapiens,PLpro Severe acute respiratory syndrome-related coronavirus,70.58%,weak,likely
+STAT1 Felis catus,M protein Severe acute respiratory syndrome-related coronavirus,70.43%,weak,likely
+IRF3 Bos taurus,N protein Severe acute respiratory syndrome-related coronavirus,70.41%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,NF-kB Mesocricetus auratus,70.34%,weak,likely
+Spike Severe acute respiratory syndrome-related coronavirus,ACE2 Sus scrofa domesticus,70.25%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,STAT2 Mesocricetus auratus,70.25%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,MAVS Camelus dromedarius,70.23%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,DPP4 Mus musculus,70.19%,weak,likely
+RIG-I Pan troglodytes,ORF6 Severe acute respiratory syndrome-related coronavirus,70.19%,weak,likely
+PRKRA Camelus dromedarius,PLpro Middle East respiratory syndrome-related coronavirus,70.17%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,MAVS Felis catus,70.11%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,TBK1 Macaca mulatta,70.04%,weak,likely
+IRF9 Rhinolophus ferrumequinum,ORF4a Middle East respiratory syndrome-related coronavirus,70.03%,weak,likely
+RIG-I Rattus norvegicus,PLpro Middle East respiratory syndrome-related coronavirus,70.02%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,NF-kB Mus musculus,69.97%,weak,likely
+DPP4 Homo sapiens,M protein Middle East respiratory syndrome-related coronavirus,69.74%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,TBK1 Camelus dromedarius,69.50%,weak,likely
+STAT1 Ovis aries,ORF4a Middle East respiratory syndrome-related coronavirus,69.49%,weak,likely
+MDA5 Camelus dromedarius,ORF3b Severe acute respiratory syndrome-related coronavirus,69.30%,weak,likely
+IRF9 Mus musculus,nsp1 Middle East respiratory syndrome-related coronavirus,69.00%,weak,likely
+MDA5 Mesocricetus auratus,PLpro Severe acute respiratory syndrome-related coronavirus,68.95%,weak,likely
+ACE2 Rattus norvegicus,ORF6 Severe acute respiratory syndrome-related coronavirus,68.70%,weak,likely
+RIG-I Canis lupus familiaris,PLpro Severe acute respiratory syndrome-related coronavirus,68.55%,weak,likely
+Spike Human coronavirus NL63,ACE2 Macaca mulatta,68.54%,weak,likely
+IRF7 Camelus dromedarius,ORF3b Severe acute respiratory syndrome-related coronavirus,68.43%,weak,likely
+STAT1 Mus musculus,ORF6 Severe acute respiratory syndrome coronavirus 2,68.39%,weak,likely
+M protein Middle East respiratory syndrome-related coronavirus,TBK1 Felis catus,67.99%,weak,likely
+ACE2 Mesocricetus auratus,ORF3b Severe acute respiratory syndrome-related coronavirus,67.90%,weak,likely
+IRF3 Rattus norvegicus,N protein Middle East respiratory syndrome-related coronavirus,67.87%,weak,likely
+NF-kB Camelus dromedarius,ORF6 Severe acute respiratory syndrome coronavirus 2,67.73%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF3 Ovis aries,67.61%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,PRKRA Homo sapiens,67.46%,weak,likely
+IRF3 Felis catus,PLpro Severe acute respiratory syndrome coronavirus 2,67.39%,weak,likely
+Spike Human coronavirus HKU1,ACE2 Rhinolophus ferrumequinum,67.30%,weak,likely
+STAT2 Camelus dromedarius,M protein Severe acute respiratory syndrome-related coronavirus,67.29%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,TBK1 Mesocricetus auratus,67.21%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,STAT2 Macaca mulatta,67.19%,weak,likely
+STAT2 Ovis aries,PLpro Severe acute respiratory syndrome-related coronavirus,67.17%,weak,likely
+IRF3 Gallus gallus,ORF3b Severe acute respiratory syndrome-related coronavirus,67.09%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,MAVS Felis catus,66.98%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,NF-kB Mus musculus,66.96%,weak,likely
+IRF7 Felis catus,ORF3b Severe acute respiratory syndrome-related coronavirus,66.76%,weak,likely
+NF-kB Rattus norvegicus,M protein Severe acute respiratory syndrome coronavirus 2,66.71%,weak,likely
+RIG-I Homo sapiens,ORF4a Human coronavirus 229E,66.65%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,DPP4 Mus musculus,66.38%,weak,likely
+ACE2 Mus musculus,M protein Severe acute respiratory syndrome-related coronavirus,66.36%,weak,likely
+Spike Severe acute respiratory syndrome-related coronavirus,ACE2 Ictidomys tridecemlineatus,66.34%,weak,likely
+STAT1 Rattus norvegicus,M protein Severe acute respiratory syndrome-related coronavirus,66.34%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,DPP4 Camelus dromedarius,66.29%,weak,likely
+NF-kB Mesocricetus auratus,PLpro Severe acute respiratory syndrome-related coronavirus,66.24%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,MAVS Camelus dromedarius,66.19%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,NF-kB Rhinolophus ferrumequinum,66.13%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,STAT2 Camelus dromedarius,66.12%,weak,likely
+ACE2 Rhinolophus ferrumequinum,PLpro Severe acute respiratory syndrome-related coronavirus,66.03%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,PRKRA Rattus norvegicus,65.92%,weak,likely
+MDA5 Mus musculus,M protein Severe acute respiratory syndrome-related coronavirus,65.76%,weak,likely
+MDA5 Mesocricetus auratus,ORF6 Severe acute respiratory syndrome coronavirus 2,65.73%,weak,likely
+PLpro Middle East respiratory syndrome-related coronavirus,MAVS Mus musculus,65.66%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,TBK1 Macaca mulatta,65.63%,weak,likely
+ORF4a Human coronavirus 229E,STAT2 Homo sapiens,65.57%,weak,likely
+ACE2 Sus scrofa domesticus,ORF6 Severe acute respiratory syndrome coronavirus 2,65.55%,weak,likely
+M protein Middle East respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,65.51%,weak,likely
+IRF3 Oryctolagus cuniculus,M protein Middle East respiratory syndrome-related coronavirus,65.49%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF7 Mus musculus,65.41%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,DPP4 Mus musculus,65.40%,weak,likely
+STAT1 Mus musculus,N protein Severe acute respiratory syndrome-related coronavirus,65.38%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,STAT2 Mesocricetus auratus,65.33%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MDA5 Macaca mulatta,65.30%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,MAVS Camelus dromedarius,65.25%,weak,likely
+MDA5 Mesocricetus auratus,ORF6 Severe acute respiratory syndrome-related coronavirus,65.20%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,RIG-I Macaca mulatta,65.19%,weak,likely
+IRF3 Ovis aries,M protein Severe acute respiratory syndrome-related coronavirus,65.12%,weak,likely
+ACE2 Camelus dromedarius,ORF3b Severe acute respiratory syndrome-related coronavirus,65.07%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,STAT2 Rhinolophus ferrumequinum,64.91%,weak,likely
+ACE2 Rhinolophus ferrumequinum,ORF6 Severe acute respiratory syndrome-related coronavirus,64.89%,weak,likely
+RIG-I Mus musculus,PLpro Middle East respiratory syndrome-related coronavirus,64.81%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,MDA5 Felis catus,64.74%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,NF-kB Mus musculus,64.73%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF3 Camelus dromedarius,64.71%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,STAT2 Rhinolophus ferrumequinum,64.71%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,TBK1 Camelus dromedarius,64.52%,weak,likely
+RIG-I Macaca mulatta,M protein Severe acute respiratory syndrome-related coronavirus,64.43%,weak,likely
+ACE2 Camelus dromedarius,ORF6 Severe acute respiratory syndrome-related coronavirus,64.34%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,64.28%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,MAVS Mesocricetus auratus,64.27%,weak,likely
+Spike Human coronavirus HKU1,ACE2 Homo sapiens,64.18%,weak,likely
+IRF3 Ovis aries,ORF4a Middle East respiratory syndrome-related coronavirus,64.16%,weak,likely
+STAT1 Mus musculus,nsp1 Middle East respiratory syndrome-related coronavirus,64.11%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT1 Mesocricetus auratus,64.02%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,ACE2 Sus scrofa domesticus,63.89%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT1 Camelus dromedarius,63.85%,weak,likely
+STAT2 Rhinolophus ferrumequinum,PLpro Severe acute respiratory syndrome-related coronavirus,63.84%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,MDA5 Felis catus,63.80%,weak,likely
+Spike Human coronavirus 229E,ACE2 Rattus norvegicus,63.77%,weak,likely
+MDA5 Camelus dromedarius,ORF6 Severe acute respiratory syndrome coronavirus 2,63.67%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,63.61%,weak,likely
+DPP4 Homo sapiens,PLpro Severe acute respiratory syndrome-related coronavirus,63.55%,weak,likely
+IRF9 Mus musculus,ORF6 Severe acute respiratory syndrome coronavirus 2,63.54%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,PRKRA Camelus dromedarius,63.49%,weak,likely
+IRF9 Camelus dromedarius,PLpro Middle East respiratory syndrome-related coronavirus,63.48%,weak,likely
+IRF3 Ovis aries,PLpro Severe acute respiratory syndrome-related coronavirus,63.45%,weak,likely
+PLpro Severe acute respiratory syndrome-related coronavirus,MAVS Mus musculus,63.40%,weak,likely
+RIG-I Homo sapiens,ORF4b Human coronavirus 229E,63.39%,weak,likely
+RIG-I Macaca mulatta,PLpro Severe acute respiratory syndrome-related coronavirus,63.39%,weak,likely
+MDA5 Mus musculus,PLpro Middle East respiratory syndrome-related coronavirus,63.36%,weak,likely
+IRF9 Canis lupus familiaris,ORF3b Severe acute respiratory syndrome-related coronavirus,63.34%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,MDA5 Mus musculus,63.31%,weak,likely
+IRF3 Camelus dromedarius,PLpro Severe acute respiratory syndrome-related coronavirus,63.31%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,63.24%,weak,likely
+ACE2 Homo sapiens,M protein Severe acute respiratory syndrome-related coronavirus,63.19%,weak,likely
+IRF9 Sus scrofa domesticus,ORF4b Middle East respiratory syndrome-related coronavirus,63.14%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF7 Rhinolophus ferrumequinum,63.03%,weak,likely
+Spike Severe acute respiratory syndrome coronavirus 2,ACE2 Ovis aries,62.99%,weak,likely
+IRF9 Rattus norvegicus,PLpro Middle East respiratory syndrome-related coronavirus,62.94%,weak,likely
+Spike Human coronavirus 229E,ACE2 Mesocricetus auratus,62.87%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,TBK1 Felis catus,62.83%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MDA5 Mus musculus,62.76%,weak,likely
+STAT2 Camelus dromedarius,PLpro Middle East respiratory syndrome-related coronavirus,62.75%,weak,likely
+IRF3 Equus caballus,N protein Severe acute respiratory syndrome-related coronavirus,62.74%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,TBK1 Felis catus,62.74%,weak,likely
+STAT1 Felis catus,PLpro Middle East respiratory syndrome-related coronavirus,62.65%,weak,likely
+IRF7 Homo sapiens,M protein Middle East respiratory syndrome-related coronavirus,62.63%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,TBK1 Mus musculus,62.62%,weak,likely
+ACE2 Felis catus,ORF6 Severe acute respiratory syndrome-related coronavirus,62.61%,weak,likely
+IRF3 Bos taurus,M protein Middle East respiratory syndrome-related coronavirus,62.38%,weak,likely
+STAT1 Camelus dromedarius,PLpro Severe acute respiratory syndrome-related coronavirus,62.38%,weak,likely
+STAT2 Rhinolophus ferrumequinum,M protein Severe acute respiratory syndrome-related coronavirus,62.37%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF3 Felis catus,62.35%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,DPP4 Homo sapiens,62.30%,weak,likely
+STAT1 Rhinolophus ferrumequinum,PLpro Middle East respiratory syndrome-related coronavirus,62.26%,weak,likely
+NF-kB Mus musculus,M protein Severe acute respiratory syndrome coronavirus 2,62.25%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,NF-kB Homo sapiens,62.23%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,TBK1 Camelus dromedarius,62.23%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,62.19%,weak,likely
+STAT1 Canis lupus familiaris,ORF3b Severe acute respiratory syndrome-related coronavirus,62.17%,weak,likely
+PLpro Middle East respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,62.16%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,MDA5 Felis catus,62.08%,weak,likely
+nsp15 Human coronavirus HKU1,IRF3 Felis catus,61.93%,weak,likely
+IRF9 Rhinolophus ferrumequinum,M protein Middle East respiratory syndrome-related coronavirus,61.89%,weak,likely
+PLpro Severe acute respiratory syndrome-related coronavirus,TBK1 Camelus dromedarius,61.88%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,PRKRA Rattus norvegicus,61.86%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,TBK1 Mus musculus,61.84%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,NF-kB Camelus dromedarius,61.64%,weak,likely
+RIG-I Macaca mulatta,nsp1 Severe acute respiratory syndrome-related coronavirus,61.59%,weak,likely
+IRF7 Rattus norvegicus,PLpro Severe acute respiratory syndrome-related coronavirus,61.55%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,STAT2 Pan troglodytes,61.52%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,TBK1 Mesocricetus auratus,61.47%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,MAVS Mesocricetus auratus,61.42%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,DPP4 Rhinolophus ferrumequinum,61.42%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,IRF7 Rhinolophus ferrumequinum,61.40%,weak,likely
+IRF3 Canis lupus familiaris,ORF4a Middle East respiratory syndrome-related coronavirus,61.30%,weak,likely
+IRF3 Ictidomys tridecemlineatus,ORF6 Severe acute respiratory syndrome-related coronavirus,61.26%,weak,likely
+STAT1 Rhinolophus ferrumequinum,ORF4a Middle East respiratory syndrome-related coronavirus,61.23%,weak,likely
+IRF3 Ictidomys tridecemlineatus,ORF3b Severe acute respiratory syndrome-related coronavirus,61.22%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,TBK1 Camelus dromedarius,61.20%,weak,likely
+IRF7 Rhinolophus ferrumequinum,ORF3b Severe acute respiratory syndrome-related coronavirus,61.20%,weak,likely
+Spike Severe acute respiratory syndrome-related coronavirus,ACE2 Macaca mulatta,61.15%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,DPP4 Homo sapiens,61.13%,weak,likely
+IRF9 Mus musculus,N protein Severe acute respiratory syndrome-related coronavirus,61.10%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MAVS Canis lupus familiaris,60.84%,weak,likely
+IRF9 Sus scrofa domesticus,PLpro Middle East respiratory syndrome-related coronavirus,60.80%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Macaca mulatta,60.75%,weak,likely
+MDA5 Canis lupus familiaris,ORF3b Severe acute respiratory syndrome-related coronavirus,60.75%,weak,likely
+RIG-I Mesocricetus auratus,PLpro Middle East respiratory syndrome-related coronavirus,60.70%,weak,likely
+IRF9 Felis catus,ORF4a Middle East respiratory syndrome-related coronavirus,60.68%,weak,likely
+ACE2 Mesocricetus auratus,ORF6 Severe acute respiratory syndrome coronavirus 2,60.54%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,IRF3 Rattus norvegicus,60.52%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MAVS Camelus dromedarius,60.51%,weak,likely
+ACE2 Mus musculus,M protein Middle East respiratory syndrome-related coronavirus,60.36%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,TBK1 Felis catus,60.23%,weak,likely
+IRF3 Oryctolagus cuniculus,PLpro Middle East respiratory syndrome-related coronavirus,60.22%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MDA5 Camelus dromedarius,60.19%,weak,likely
+IRF3 Ictidomys tridecemlineatus,M protein Middle East respiratory syndrome-related coronavirus,60.17%,weak,likely
+STAT1 Homo sapiens,nsp1 Middle East respiratory syndrome-related coronavirus,60.07%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,ACE2 Canis lupus familiaris,60.05%,weak,likely
+nsp15 Human coronavirus HKU1,IRF3 Mus musculus,59.91%,weak,likely
+M protein Middle East respiratory syndrome-related coronavirus,TBK1 Macaca mulatta,59.80%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF7 Felis catus,59.74%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,ACE2 Mus musculus,59.70%,weak,likely
+MDA5 Felis catus,PLpro Middle East respiratory syndrome-related coronavirus,59.69%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MDA5 Ovis aries,59.66%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,IRF3 Camelus dromedarius,59.62%,weak,likely
+IRF9 Mesocricetus auratus,ORF3b Severe acute respiratory syndrome-related coronavirus,59.61%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,ACE2 Homo sapiens,59.60%,weak,likely
+IRF3 Oryctolagus cuniculus,N protein Severe acute respiratory syndrome-related coronavirus,59.59%,weak,likely
+RIG-I Homo sapiens,PLpro Severe acute respiratory syndrome-related coronavirus,59.56%,weak,likely
+MDA5 Mus musculus,PLpro Severe acute respiratory syndrome-related coronavirus,59.55%,weak,likely
+IRF9 Rhinolophus ferrumequinum,PLpro Middle East respiratory syndrome-related coronavirus,59.55%,weak,likely
+IRF3 Felis catus,M protein Middle East respiratory syndrome-related coronavirus,59.54%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,STAT2 Camelus dromedarius,59.44%,weak,likely
+Spike Human coronavirus 229E,ACE2 Macaca mulatta,59.44%,weak,likely
+IRF9 Camelus dromedarius,ORF3b Severe acute respiratory syndrome-related coronavirus,59.35%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,STAT2 Macaca mulatta,59.31%,weak,likely
+ACE2 Camelus dromedarius,M protein Middle East respiratory syndrome-related coronavirus,59.26%,weak,likely
+PRKRA Homo sapiens,ORF6 Severe acute respiratory syndrome coronavirus 2,59.13%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF3 Equus caballus,59.12%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT1 Mesocricetus auratus,59.02%,weak,likely
+Spike Human coronavirus 229E,ACE2 Felis catus,58.97%,weak,likely
+STAT1 Camelus dromedarius,N protein Severe acute respiratory syndrome-related coronavirus,58.93%,weak,likely
+IRF3 Ictidomys tridecemlineatus,PLpro Severe acute respiratory syndrome-related coronavirus,58.75%,weak,likely
+Spike Human coronavirus 229E,ACE2 Mus musculus,58.74%,weak,likely
+DPP4 Rattus norvegicus,PLpro Severe acute respiratory syndrome-related coronavirus,58.70%,weak,likely
+NF-kB Macaca mulatta,M protein Middle East respiratory syndrome-related coronavirus,58.61%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,DPP4 Camelus dromedarius,58.57%,weak,likely
+RIG-I Macaca mulatta,ORF4b Middle East respiratory syndrome-related coronavirus,58.56%,weak,likely
+PRKRA Rattus norvegicus,PLpro Middle East respiratory syndrome-related coronavirus,58.53%,weak,likely
+IRF7 Rhinolophus ferrumequinum,ORF6 Severe acute respiratory syndrome coronavirus 2,58.48%,weak,likely
+MDA5 Mesocricetus auratus,ORF3b Severe acute respiratory syndrome-related coronavirus,58.48%,weak,likely
+Spike Severe acute respiratory syndrome-related coronavirus,ACE2 Canis lupus familiaris,58.43%,weak,likely
+MDA5 Mesocricetus auratus,PLpro Middle East respiratory syndrome-related coronavirus,58.43%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF7 Rattus norvegicus,58.39%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT1 Camelus dromedarius,58.23%,weak,likely
+IRF9 Felis catus,nsp1 Severe acute respiratory syndrome-related coronavirus,58.20%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,MAVS Mesocricetus auratus,58.15%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,STAT2 Homo sapiens,58.12%,weak,likely
+RIG-I Canis lupus familiaris,ORF4a Middle East respiratory syndrome-related coronavirus,58.12%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,PRKRA Mus musculus,58.07%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,IRF7 Homo sapiens,58.00%,weak,likely
+NF-kB Rhinolophus ferrumequinum,M protein Middle East respiratory syndrome-related coronavirus,57.99%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,TBK1 Mus musculus,57.99%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,IRF3 Homo sapiens,57.88%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,TBK1 Macaca mulatta,57.84%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,RIG-I Pan troglodytes,57.82%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,ACE2 Homo sapiens,57.67%,weak,likely
+IRF3 Homo sapiens,N protein Middle East respiratory syndrome-related coronavirus,57.64%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF9 Mus musculus,57.61%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,STAT2 Ovis aries,57.59%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,MDA5 Camelus dromedarius,57.57%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,DPP4 Felis catus,57.55%,weak,likely
+IRF3 Ovis aries,M protein Middle East respiratory syndrome-related coronavirus,57.55%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,NF-kB Mesocricetus auratus,57.52%,weak,likely
+ACE2 Camelus dromedarius,M protein Severe acute respiratory syndrome-related coronavirus,57.48%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,ACE2 Rattus norvegicus,57.48%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,PRKRA Rhinolophus ferrumequinum,57.47%,weak,likely
+DPP4 Homo sapiens,ORF6 Severe acute respiratory syndrome coronavirus 2,57.32%,weak,likely
+NF-kB Camelus dromedarius,ORF3b Severe acute respiratory syndrome-related coronavirus,57.32%,weak,likely
+DPP4 Mus musculus,M protein Middle East respiratory syndrome-related coronavirus,57.29%,weak,likely
+ACE2 Homo sapiens,PLpro Severe acute respiratory syndrome-related coronavirus,57.27%,weak,likely
+STAT1 Felis catus,M protein Middle East respiratory syndrome-related coronavirus,57.22%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,PRKRA Rattus norvegicus,57.18%,weak,likely
+IRF3 Ovis aries,PLpro Middle East respiratory syndrome-related coronavirus,57.16%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,MDA5 Camelus dromedarius,57.15%,weak,likely
+PRKRA Rhinolophus ferrumequinum,ORF6 Severe acute respiratory syndrome-related coronavirus,57.15%,weak,likely
+STAT1 Ovis aries,ORF3b Severe acute respiratory syndrome-related coronavirus,57.15%,weak,likely
+Spike Human coronavirus NL63,ACE2 Camelus dromedarius,57.09%,weak,likely
+ACE2 Canis lupus familiaris,ORF6 Severe acute respiratory syndrome coronavirus 2,57.07%,weak,likely
+Spike Human coronavirus NL63,ACE2 Mesocricetus auratus,57.06%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,TBK1 Mus musculus,56.98%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,ACE2 Mesocricetus auratus,56.90%,weak,likely
+IRF9 Rhinolophus ferrumequinum,M protein Severe acute respiratory syndrome-related coronavirus,56.88%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF3 Camelus dromedarius,56.85%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,TBK1 Mesocricetus auratus,56.71%,weak,likely
+IRF9 Homo sapiens,PLpro Middle East respiratory syndrome-related coronavirus,56.70%,weak,likely
+STAT2 Rhinolophus ferrumequinum,M protein Middle East respiratory syndrome-related coronavirus,56.61%,weak,likely
+nsp15 Human coronavirus HKU1,IRF3 Homo sapiens,56.61%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,NF-kB Macaca mulatta,56.56%,weak,likely
+RIG-I Pan troglodytes,ORF6 Severe acute respiratory syndrome coronavirus 2,56.55%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,STAT2 Ovis aries,56.51%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,MAVS Felis catus,56.50%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT2 Camelus dromedarius,56.49%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,IRF7 Rattus norvegicus,56.44%,weak,likely
+IRF7 Rhinolophus ferrumequinum,PLpro Middle East respiratory syndrome-related coronavirus,56.41%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,PRKRA Homo sapiens,56.40%,weak,likely
+STAT1 Felis catus,ORF4b Middle East respiratory syndrome-related coronavirus,56.37%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,PRKRA Rhinolophus ferrumequinum,56.35%,weak,likely
+STAT1 Camelus dromedarius,ORF6 Severe acute respiratory syndrome coronavirus 2,56.34%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,STAT2 Ovis aries,56.33%,weak,likely
+STAT1 Camelus dromedarius,M protein Severe acute respiratory syndrome-related coronavirus,56.29%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,STAT2 Camelus dromedarius,56.22%,weak,likely
+Spike Severe acute respiratory syndrome-related coronavirus,ACE2 Mesocricetus auratus,56.17%,weak,likely
+IRF9 Felis catus,ORF4b Middle East respiratory syndrome-related coronavirus,56.17%,weak,likely
+NF-kB Mesocricetus auratus,M protein Severe acute respiratory syndrome-related coronavirus,56.16%,weak,likely
+STAT1 Mus musculus,PLpro Severe acute respiratory syndrome-related coronavirus,56.11%,weak,likely
+IRF7 Rhinolophus ferrumequinum,ORF6 Severe acute respiratory syndrome-related coronavirus,56.11%,weak,likely
+IRF3 Camelus dromedarius,M protein Severe acute respiratory syndrome-related coronavirus,56.07%,weak,likely
+ACE2 Rattus norvegicus,M protein Middle East respiratory syndrome-related coronavirus,56.00%,weak,likely
+IRF9 Camelus dromedarius,ORF6 Severe acute respiratory syndrome-related coronavirus,56.00%,weak,likely
+RIG-I Mesocricetus auratus,M protein Severe acute respiratory syndrome-related coronavirus,55.98%,weak,likely
+IRF3 Gallus gallus,N protein Severe acute respiratory syndrome-related coronavirus,55.92%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,MAVS Macaca mulatta,55.90%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,ACE2 Mus musculus,55.89%,weak,likely
+PRKRA Rhinolophus ferrumequinum,M protein Middle East respiratory syndrome-related coronavirus,55.84%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,STAT2 Mesocricetus auratus,55.79%,weak,likely
+IRF7 Homo sapiens,PLpro Middle East respiratory syndrome-related coronavirus,55.79%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,PRKRA Mus musculus,55.78%,weak,likely
+NF-kB Macaca mulatta,ORF6 Severe acute respiratory syndrome-related coronavirus,55.72%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,MAVS Mus musculus,55.70%,weak,likely
+PRKRA Camelus dromedarius,ORF3b Severe acute respiratory syndrome-related coronavirus,55.63%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,STAT2 Camelus dromedarius,55.60%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,DPP4 Felis catus,55.58%,weak,likely
+IRF7 Homo sapiens,M protein Severe acute respiratory syndrome-related coronavirus,55.54%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF7 Rhinolophus ferrumequinum,55.49%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,DPP4 Rattus norvegicus,55.47%,weak,likely
+DPP4 Rhinolophus ferrumequinum,M protein Middle East respiratory syndrome-related coronavirus,55.45%,weak,likely
+NF-kB Macaca mulatta,PLpro Severe acute respiratory syndrome-related coronavirus,55.44%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,TBK1 Camelus dromedarius,55.31%,weak,likely
+IRF3 Mesocricetus auratus,M protein Middle East respiratory syndrome-related coronavirus,55.28%,weak,likely
+MDA5 Ovis aries,ORF3b Severe acute respiratory syndrome-related coronavirus,55.27%,weak,likely
+STAT1 Rhinolophus ferrumequinum,M protein Severe acute respiratory syndrome-related coronavirus,55.26%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,TBK1 Mesocricetus auratus,55.04%,weak,likely
+MDA5 Felis catus,M protein Middle East respiratory syndrome-related coronavirus,55.02%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,STAT2 Macaca mulatta,54.98%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,TBK1 Camelus dromedarius,54.96%,weak,likely
+IRF9 Sus scrofa domesticus,N protein Severe acute respiratory syndrome-related coronavirus,54.90%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,STAT2 Macaca mulatta,54.89%,weak,likely
+IRF9 Rhinolophus ferrumequinum,PLpro Severe acute respiratory syndrome-related coronavirus,54.88%,weak,likely
+IRF3 Oryctolagus cuniculus,ORF3b Severe acute respiratory syndrome-related coronavirus,54.84%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT2 Macaca mulatta,54.82%,weak,likely
+IRF7 Felis catus,ORF6 Severe acute respiratory syndrome-related coronavirus,54.82%,weak,likely
+IRF3 Ictidomys tridecemlineatus,PLpro Middle East respiratory syndrome-related coronavirus,54.74%,weak,likely
+RIG-I Macaca mulatta,ORF4a Middle East respiratory syndrome-related coronavirus,54.69%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,TBK1 Macaca mulatta,54.63%,weak,likely
+DPP4 Rattus norvegicus,M protein Middle East respiratory syndrome-related coronavirus,54.60%,weak,likely
+NF-kB Camelus dromedarius,PLpro Severe acute respiratory syndrome-related coronavirus,54.54%,weak,likely
+STAT1 Mus musculus,M protein Severe acute respiratory syndrome-related coronavirus,54.52%,weak,likely
+ORF4b Human coronavirus 229E,IRF3 Homo sapiens,54.50%,weak,likely
+PRKRA Mus musculus,PLpro Middle East respiratory syndrome-related coronavirus,54.50%,weak,likely
+PLpro Severe acute respiratory syndrome-related coronavirus,TBK1 Mesocricetus auratus,54.40%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,IRF7 Rhinolophus ferrumequinum,54.37%,weak,likely
+RIG-I Macaca mulatta,M protein Middle East respiratory syndrome-related coronavirus,54.30%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,DPP4 Mus musculus,54.28%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,NF-kB Rattus norvegicus,54.28%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,STAT2 Rattus norvegicus,54.27%,weak,likely
+IRF9 Felis catus,M protein Severe acute respiratory syndrome-related coronavirus,54.25%,weak,likely
+RIG-I Homo sapiens,M protein Severe acute respiratory syndrome coronavirus 2,54.20%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,MAVS Macaca mulatta,54.19%,weak,likely
+STAT1 Macaca mulatta,ORF6 Severe acute respiratory syndrome-related coronavirus,54.19%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,IRF3 Felis catus,54.17%,weak,likely
+PLpro Severe acute respiratory syndrome-related coronavirus,MAVS Camelus dromedarius,54.14%,weak,likely
+ACE2 Canis lupus familiaris,ORF3b Severe acute respiratory syndrome-related coronavirus,54.06%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,MAVS Canis lupus familiaris,53.94%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT1 Ovis aries,53.94%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF3 Bos taurus,53.92%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Canis lupus familiaris,53.90%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF7 Homo sapiens,53.78%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,STAT2 Camelus dromedarius,53.70%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF3 Canis lupus familiaris,53.70%,weak,likely
+ORF6 Severe acute respiratory syndrome coronavirus 2,TBK1 Mesocricetus auratus,53.67%,weak,likely
+STAT2 Macaca mulatta,PLpro Middle East respiratory syndrome-related coronavirus,53.66%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF9 Camelus dromedarius,53.65%,weak,likely
+IRF9 Macaca mulatta,ORF3b Severe acute respiratory syndrome-related coronavirus,53.46%,weak,likely
+IRF9 Felis catus,PLpro Severe acute respiratory syndrome-related coronavirus,53.43%,weak,likely
+PLpro Middle East respiratory syndrome-related coronavirus,TBK1 Mesocricetus auratus,53.42%,weak,likely
+IRF3 Rhinolophus ferrumequinum,ORF4a Human coronavirus 229E,53.41%,weak,likely
+IRF3 Camelus dromedarius,ORF6 Severe acute respiratory syndrome coronavirus 2,53.26%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,PRKRA Rhinolophus ferrumequinum,53.24%,weak,likely
+STAT2 Mesocricetus auratus,PLpro Middle East respiratory syndrome-related coronavirus,53.23%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF3 Macaca mulatta,53.23%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,STAT2 Mus musculus,53.20%,weak,likely
+IRF9 Rhinolophus ferrumequinum,ORF4b Middle East respiratory syndrome-related coronavirus,53.19%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT1 Mus musculus,53.11%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,DPP4 Rhinolophus ferrumequinum,53.10%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,MAVS Camelus dromedarius,53.08%,weak,likely
+IRF3 Bos taurus,ORF4a Middle East respiratory syndrome-related coronavirus,53.05%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,53.02%,weak,likely
+PRKRA Rattus norvegicus,M protein Middle East respiratory syndrome-related coronavirus,52.99%,weak,likely
+MDA5 Homo sapiens,PLpro Middle East respiratory syndrome-related coronavirus,52.96%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,IRF3 Bos taurus,52.95%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,PRKRA Felis catus,52.93%,weak,likely
+STAT1 Homo sapiens,ORF4a Human coronavirus 229E,52.92%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT2 Canis lupus familiaris,52.90%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,DPP4 Rattus norvegicus,52.86%,weak,likely
+RIG-I Mesocricetus auratus,PLpro Severe acute respiratory syndrome-related coronavirus,52.86%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,TBK1 Rhinolophus ferrumequinum,52.85%,weak,likely
+STAT1 Camelus dromedarius,nsp1 Severe acute respiratory syndrome-related coronavirus,52.79%,weak,likely
+MDA5 Rattus norvegicus,PLpro Middle East respiratory syndrome-related coronavirus,52.76%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,IRF3 Rhinolophus ferrumequinum,52.75%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,PRKRA Felis catus,52.61%,weak,likely
+PRKRA Rattus norvegicus,ORF6 Severe acute respiratory syndrome coronavirus 2,52.60%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,MDA5 Homo sapiens,52.58%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,IRF3 Macaca mulatta,52.57%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,TBK1 Camelus dromedarius,52.57%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MAVS Mus musculus,52.46%,weak,likely
+STAT1 Mus musculus,PLpro Middle East respiratory syndrome-related coronavirus,52.38%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,TBK1 Macaca mulatta,52.32%,weak,likely
+RIG-I Rattus norvegicus,M protein Severe acute respiratory syndrome coronavirus 2,52.32%,weak,likely
+STAT2 Mesocricetus auratus,M protein Severe acute respiratory syndrome-related coronavirus,52.30%,weak,likely
+IRF3 Ictidomys tridecemlineatus,M protein Severe acute respiratory syndrome-related coronavirus,52.20%,weak,likely
+PRKRA Felis catus,ORF3b Severe acute respiratory syndrome-related coronavirus,52.18%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,52.17%,weak,likely
+M protein Severe acute respiratory syndrome-related coronavirus,MAVS Mus musculus,52.16%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,NF-kB Mesocricetus auratus,52.15%,weak,likely
+nsp1 Middle East respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,52.14%,weak,likely
+ACE2 Rhinolophus ferrumequinum,M protein Severe acute respiratory syndrome-related coronavirus,52.06%,weak,likely
+ACE2 Camelus dromedarius,PLpro Middle East respiratory syndrome-related coronavirus,52.03%,weak,likely
+PRKRA Rhinolophus ferrumequinum,ORF3b Severe acute respiratory syndrome-related coronavirus,52.01%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MAVS Macaca mulatta,52.00%,weak,likely
+MDA5 Camelus dromedarius,ORF6 Severe acute respiratory syndrome-related coronavirus,51.98%,weak,likely
+IRF9 Camelus dromedarius,ORF6 Severe acute respiratory syndrome coronavirus 2,51.87%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,NF-kB Camelus dromedarius,51.86%,weak,likely
+ACE2 Homo sapiens,PLpro Middle East respiratory syndrome-related coronavirus,51.81%,weak,likely
+ACE2 Rhinolophus ferrumequinum,ORF3b Severe acute respiratory syndrome-related coronavirus,51.78%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,NF-kB Ovis aries,51.76%,weak,likely
+IRF9 Rattus norvegicus,nsp1 Middle East respiratory syndrome-related coronavirus,51.74%,weak,likely
+STAT2 Homo sapiens,PLpro Middle East respiratory syndrome-related coronavirus,51.66%,weak,likely
+DPP4 Camelus dromedarius,M protein Middle East respiratory syndrome-related coronavirus,51.54%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,NF-kB Equus caballus,51.51%,weak,likely
+ACE2 Homo sapiens,ORF6 Severe acute respiratory syndrome coronavirus 2,51.50%,weak,likely
+STAT1 Rattus norvegicus,PLpro Middle East respiratory syndrome-related coronavirus,51.41%,weak,likely
+IRF3 Mesocricetus auratus,PLpro Severe acute respiratory syndrome-related coronavirus,51.33%,weak,likely
+IRF3 Rattus norvegicus,M protein Severe acute respiratory syndrome coronavirus 2,51.32%,weak,likely
+STAT1 Mesocricetus auratus,ORF6 Severe acute respiratory syndrome-related coronavirus,51.32%,weak,likely
+Spike Severe acute respiratory syndrome-related coronavirus,ACE2 Mus musculus,51.31%,weak,likely
+STAT1 Homo sapiens,PLpro Middle East respiratory syndrome-related coronavirus,51.19%,weak,likely
+IRF9 Homo sapiens,ORF4a Human coronavirus 229E,51.19%,weak,likely
+NF-kB Ovis aries,M protein Middle East respiratory syndrome-related coronavirus,51.18%,weak,likely
+RIG-I Canis lupus familiaris,M protein Middle East respiratory syndrome-related coronavirus,51.18%,weak,likely
+ORF4a Middle East respiratory syndrome-related coronavirus,STAT2 Macaca mulatta,51.15%,weak,likely
+Spike Human coronavirus OC43,ACE2 Felis catus,51.10%,weak,likely
+IRF7 Mus musculus,ORF3b Severe acute respiratory syndrome-related coronavirus,51.06%,weak,likely
+ORF3b Severe acute respiratory syndrome-related coronavirus,TBK1 Canis lupus familiaris,51.06%,weak,likely
+IRF9 Mesocricetus auratus,ORF6 Severe acute respiratory syndrome-related coronavirus,51.03%,weak,likely
+PRKRA Homo sapiens,PLpro Severe acute respiratory syndrome-related coronavirus,51.00%,weak,likely
+IRF3 Mesocricetus auratus,PLpro Middle East respiratory syndrome-related coronavirus,50.97%,weak,likely
+RIG-I Homo sapiens,M protein Severe acute respiratory syndrome-related coronavirus,50.92%,weak,likely
+NF-kB Equus caballus,ORF3b Severe acute respiratory syndrome-related coronavirus,50.91%,weak,likely
+STAT1 Camelus dromedarius,ORF6 Severe acute respiratory syndrome-related coronavirus,50.89%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF3 Canis lupus familiaris,50.89%,weak,likely
+ACE2 Mus musculus,ORF3b Severe acute respiratory syndrome-related coronavirus,50.74%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,STAT2 Mesocricetus auratus,50.70%,weak,likely
+IRF9 Homo sapiens,nsp1 Middle East respiratory syndrome-related coronavirus,50.63%,weak,likely
+Spike Human coronavirus 229E,ACE2 Camelus dromedarius,50.59%,weak,likely
+ACE2 Rattus norvegicus,PLpro Middle East respiratory syndrome-related coronavirus,50.58%,weak,likely
+nsp15 Severe acute respiratory syndrome coronavirus 2,MDA5 Mesocricetus auratus,50.41%,weak,likely
+ORF6 Severe acute respiratory syndrome-related coronavirus,STAT2 Pan troglodytes,50.41%,weak,likely
+IRF9 Sus scrofa domesticus,M protein Middle East respiratory syndrome-related coronavirus,50.39%,weak,likely
+MDA5 Macaca mulatta,ORF3b Severe acute respiratory syndrome-related coronavirus,50.35%,weak,likely
+ACE2 Mus musculus,ORF4a Middle East respiratory syndrome-related coronavirus,50.32%,weak,likely
+STAT1 Ovis aries,M protein Middle East respiratory syndrome-related coronavirus,50.28%,weak,likely
+nsp1 Severe acute respiratory syndrome-related coronavirus,NF-kB Mesocricetus auratus,50.25%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF3 Oryctolagus cuniculus,50.24%,weak,likely
+MDA5 Macaca mulatta,ORF6 Severe acute respiratory syndrome-related coronavirus,50.20%,weak,likely
+ORF4b Middle East respiratory syndrome-related coronavirus,IRF3 Equus caballus,50.09%,weak,likely
+STAT1 Gallus gallus,ORF3b Severe acute respiratory syndrome-related coronavirus,50.06%,weak,likely
+nsp15 Severe acute respiratory syndrome-related coronavirus,STAT2 Ovis aries,50.03%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,MDA5 Macaca mulatta,49.87%,weak,likely
+IRF3 Mus musculus,N protein Middle East respiratory syndrome-related coronavirus,49.16%,weak,likely
+N protein Severe acute respiratory syndrome-related coronavirus,ACE2 Camelus dromedarius,48.94%,weak,likely
+Spike Middle East respiratory syndrome-related coronavirus,IRF3 Rhinolophus ferrumequinum,78.26%,strong,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,IRF3 Homo sapiens,77.97%,strong,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,IRF3 Rattus norvegicus,72.73%,strong,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,IRF3 Felis catus,72.00%,strong,unlikely
+RIG-I Rattus norvegicus,Spike Middle East respiratory syndrome-related coronavirus,71.63%,strong,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,70.25%,strong,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,NF-kB Homo sapiens,68.22%,strong,unlikely
+RIG-I Homo sapiens,Spike Middle East respiratory syndrome-related coronavirus,67.32%,strong,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,67.18%,strong,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,NF-kB Rattus norvegicus,65.09%,strong,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,IRF3 Rattus norvegicus,62.04%,strong,unlikely
+RIG-I Mesocricetus auratus,Spike Severe acute respiratory syndrome-related coronavirus,61.87%,strong,unlikely
+RIG-I Mus musculus,Spike Severe acute respiratory syndrome coronavirus 2,58.20%,strong,unlikely
+RIG-I Canis lupus familiaris,Spike Severe acute respiratory syndrome-related coronavirus,55.26%,strong,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,TBK1 Rattus norvegicus,54.21%,strong,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,NF-kB Rhinolophus ferrumequinum,52.38%,strong,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,NF-kB Rhinolophus ferrumequinum,52.08%,strong,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,IRF3 Rhinolophus ferrumequinum,87.89%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,STAT2 Homo sapiens,83.71%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,MAVS Homo sapiens,82.47%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,IRF3 Homo sapiens,80.79%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,IRF3 Felis catus,79.63%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,MAVS Rhinolophus ferrumequinum,78.97%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,STAT2 Rattus norvegicus,76.37%,weak,unlikely
+RIG-I Canis lupus familiaris,Spike Severe acute respiratory syndrome coronavirus 2,75.93%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,NF-kB Homo sapiens,74.58%,weak,unlikely
+RIG-I Homo sapiens,Spike Severe acute respiratory syndrome-related coronavirus,71.43%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,MAVS Rattus norvegicus,70.56%,weak,unlikely
+STAT1 Homo sapiens,Spike Middle East respiratory syndrome-related coronavirus,69.51%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,NF-kB Rattus norvegicus,69.22%,weak,unlikely
+RIG-I Mus musculus,Spike Severe acute respiratory syndrome-related coronavirus,68.13%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,IRF3 Macaca mulatta,67.57%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,IRF3 Felis catus,66.16%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,MDA5 Rattus norvegicus,66.15%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,65.72%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,IRF3 Macaca mulatta,65.66%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,NF-kB Mus musculus,65.09%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,NF-kB Camelus dromedarius,64.64%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,MDA5 Homo sapiens,63.66%,weak,unlikely
+RIG-I Rattus norvegicus,Spike Severe acute respiratory syndrome coronavirus 2,63.64%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,MAVS Felis catus,63.33%,weak,unlikely
+RIG-I Homo sapiens,Spike Severe acute respiratory syndrome coronavirus 2,63.01%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,NF-kB Mus musculus,62.99%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,IRF3 Rattus norvegicus,61.27%,weak,unlikely
+RIG-I Macaca mulatta,Spike Severe acute respiratory syndrome coronavirus 2,60.93%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,MAVS Rhinolophus ferrumequinum,60.90%,weak,unlikely
+STAT1 Mus musculus,Spike Severe acute respiratory syndrome-related coronavirus,60.89%,weak,unlikely
+STAT1 Rhinolophus ferrumequinum,Spike Severe acute respiratory syndrome-related coronavirus,60.88%,weak,unlikely
+STAT1 Felis catus,Spike Severe acute respiratory syndrome coronavirus 2,60.64%,weak,unlikely
+RIG-I Mesocricetus auratus,Spike Severe acute respiratory syndrome coronavirus 2,60.57%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,STAT2 Rhinolophus ferrumequinum,60.03%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,NF-kB Homo sapiens,60.00%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,MAVS Homo sapiens,59.88%,weak,unlikely
+STAT1 Felis catus,Spike Severe acute respiratory syndrome-related coronavirus,59.84%,weak,unlikely
+STAT1 Rattus norvegicus,Spike Middle East respiratory syndrome-related coronavirus,59.71%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,MDA5 Rattus norvegicus,59.57%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,NF-kB Camelus dromedarius,59.39%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,IRF3 Homo sapiens,59.30%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,IRF3 Camelus dromedarius,59.22%,weak,unlikely
+RIG-I Mus musculus,Spike Middle East respiratory syndrome-related coronavirus,59.10%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,TBK1 Rattus norvegicus,59.03%,weak,unlikely
+RIG-I Mesocricetus auratus,Spike Middle East respiratory syndrome-related coronavirus,58.81%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,IRF3 Camelus dromedarius,58.59%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,IRF3 Mus musculus,58.42%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,TBK1 Camelus dromedarius,58.20%,weak,unlikely
+STAT1 Mus musculus,Spike Severe acute respiratory syndrome coronavirus 2,58.14%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,MAVS Felis catus,57.96%,weak,unlikely
+STAT1 Rhinolophus ferrumequinum,Spike Severe acute respiratory syndrome coronavirus 2,57.47%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,NF-kB Mus musculus,57.44%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,NF-kB Camelus dromedarius,57.37%,weak,unlikely
+RIG-I Macaca mulatta,Spike Severe acute respiratory syndrome-related coronavirus,57.32%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,TBK1 Mus musculus,57.23%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,MAVS Mus musculus,57.03%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,IRF3 Rhinolophus ferrumequinum,56.38%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,IRF3 Camelus dromedarius,56.18%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,STAT2 Rhinolophus ferrumequinum,56.09%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,MAVS Homo sapiens,56.01%,weak,unlikely
+STAT1 Homo sapiens,Spike Severe acute respiratory syndrome-related coronavirus,55.61%,weak,unlikely
+IRF9 Homo sapiens,Spike Severe acute respiratory syndrome coronavirus 2,55.31%,weak,unlikely
+RIG-I Rattus norvegicus,Spike Severe acute respiratory syndrome-related coronavirus,55.01%,weak,unlikely
+IRF9 Homo sapiens,Spike Severe acute respiratory syndrome-related coronavirus,54.50%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,IRF3 Canis lupus familiaris,54.22%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,IRF3 Mus musculus,54.08%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,STAT2 Camelus dromedarius,53.86%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,MDA5 Rattus norvegicus,53.79%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,TBK1 Homo sapiens,53.71%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,MDA5 Homo sapiens,53.49%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,TBK1 Felis catus,53.36%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,MDA5 Felis catus,53.34%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,NF-kB Rattus norvegicus,53.01%,weak,unlikely
+STAT1 Rattus norvegicus,Spike Severe acute respiratory syndrome coronavirus 2,52.98%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,IRF3 Mus musculus,52.89%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,TBK1 Homo sapiens,52.50%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,STAT2 Felis catus,52.36%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,STAT2 Rhinolophus ferrumequinum,52.32%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,IRF3 Canis lupus familiaris,52.21%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,TBK1 Homo sapiens,52.19%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,STAT2 Felis catus,52.10%,weak,unlikely
+STAT1 Homo sapiens,Spike Severe acute respiratory syndrome coronavirus 2,51.56%,weak,unlikely
+IRF9 Felis catus,Spike Severe acute respiratory syndrome coronavirus 2,51.49%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,TBK1 Felis catus,50.75%,weak,unlikely
+IRF9 Felis catus,Spike Severe acute respiratory syndrome-related coronavirus,50.53%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,MAVS Rattus norvegicus,50.50%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,STAT2 Homo sapiens,50.42%,weak,unlikely
+IRF9 Mus musculus,Spike Severe acute respiratory syndrome-related coronavirus,50.40%,weak,unlikely
+Spike Severe acute respiratory syndrome-related coronavirus,IRF3 Mesocricetus auratus,50.29%,weak,unlikely
+Spike Severe acute respiratory syndrome coronavirus 2,MDA5 Homo sapiens,50.20%,weak,unlikely
+Spike Middle East respiratory syndrome-related coronavirus,NF-kB Rhinolophus ferrumequinum,50.05%,weak,unlikely

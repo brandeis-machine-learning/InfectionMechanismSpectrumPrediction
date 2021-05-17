@@ -1,0 +1,8 @@
+null,Human coronavirus OC43,Human coronavirus HKU1,Middle East respiratory syndrome-related coronavirus,Severe acute respiratory syndrome coronavirus 2,Severe acute respiratory syndrome-related coronavirus,Human coronavirus NL63,Human coronavirus 229E
+Human coronavirus OC43,100.00,76.64,68.75,47.21,41.63,49.21,46.95
+Human coronavirus HKU1,76.21,100.00,43.24,46.24,51.85,42.22,48.89
+Middle East respiratory syndrome-related coronavirus,68.75,43.24,100.00,48.28,37.50,50.00,55.56
+Severe acute respiratory syndrome coronavirus 2,47.21,46.24,48.28,100.00,86.84,46.38,38.46
+Severe acute respiratory syndrome-related coronavirus,41.63,51.85,37.50,86.84,100.00,46.43,52.17
+Human coronavirus NL63,48.95,42.22,50.00,46.11,46.43,100.00,77.87
+Human coronavirus 229E,47.33,48.89,55.56,38.46,52.17,77.83,100.00

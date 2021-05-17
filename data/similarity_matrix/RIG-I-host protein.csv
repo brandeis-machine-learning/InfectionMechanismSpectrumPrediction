@@ -1,0 +1,8 @@
+null,Homo sapiens,Pan troglodytes,Macaca mulatta,Canis lupus familiaris,Rattus norvegicus,Mesocricetus auratus,Mus musculus
+Homo sapiens,100.00,100.00,97.73,90.10,87.46,87.04,86.92
+Pan troglodytes,100.00,100.00,97.73,90.10,87.46,87.04,86.92
+Macaca mulatta,97.73,97.73,100.00,89.34,87.03,86.50,86.38
+Canis lupus familiaris,90.10,90.10,89.34,100.00,85.25,85.38,84.82
+Rattus norvegicus,87.46,87.46,87.03,85.25,100.00,93.52,95.46
+Mesocricetus auratus,87.04,87.04,86.50,85.38,93.52,100.00,92.98
+Mus musculus,86.92,86.92,86.38,84.82,95.46,92.98,100.00

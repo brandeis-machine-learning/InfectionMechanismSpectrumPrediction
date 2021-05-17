@@ -1,0 +1,8 @@
+null,Human coronavirus OC43,Human coronavirus HKU1,Middle East respiratory syndrome-related coronavirus,Severe acute respiratory syndrome coronavirus 2,Severe acute respiratory syndrome-related coronavirus,Human coronavirus NL63,Human coronavirus 229E
+Human coronavirus OC43,100.00,null,null,null,null,null,null
+Human coronavirus HKU1,null,100.00,null,null,null,null,null
+Middle East respiratory syndrome-related coronavirus,null,null,100.00,null,null,null,null
+Severe acute respiratory syndrome coronavirus 2,null,null,null,100.00,null,null,null
+Severe acute respiratory syndrome-related coronavirus,null,null,null,null,100.00,null,null
+Human coronavirus NL63,null,null,null,null,null,100.00,null
+Human coronavirus 229E,null,null,null,null,null,null,100.00

@@ -1,0 +1,18 @@
+null,Homo sapiens,Mus musculus,Rattus norvegicus,Canis lupus familiaris,Camelus dromedarius,Felis catus,Ictidomys tridecemlineatus,Bos taurus,Pan troglodytes,Gallus gallus,Oryctolagus cuniculus,Equus caballus,Macaca mulatta,Ovis aries,Sus scrofa domesticus,Rhinolophus ferrumequinum,Mesocricetus auratus
+Homo sapiens,100.00,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+Mus musculus,null,100.00,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+Rattus norvegicus,null,null,100.00,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+Canis lupus familiaris,null,null,null,100.00,null,null,null,null,null,null,null,null,null,null,null,null,null
+Camelus dromedarius,null,null,null,null,100.00,null,null,null,null,null,null,null,null,null,null,null,null
+Felis catus,null,null,null,null,null,100.00,null,null,null,null,null,null,null,null,null,null,null
+Ictidomys tridecemlineatus,null,null,null,null,null,null,100.00,null,null,null,null,null,null,null,null,null,null
+Bos taurus,null,null,null,null,null,null,null,100.00,null,null,null,null,null,null,null,null,null
+Pan troglodytes,null,null,null,null,null,null,null,null,100.00,null,null,null,null,null,null,null,null
+Gallus gallus,null,null,null,null,null,null,null,null,null,100.00,null,null,null,null,null,null,null
+Oryctolagus cuniculus,null,null,null,null,null,null,null,null,null,null,100.00,null,null,null,null,null,null
+Equus caballus,null,null,null,null,null,null,null,null,null,null,null,100.00,null,null,null,null,null
+Macaca mulatta,null,null,null,null,null,null,null,null,null,null,null,null,100.00,null,null,null,null
+Ovis aries,null,null,null,null,null,null,null,null,null,null,null,null,null,100.00,null,null,null
+Sus scrofa domesticus,null,null,null,null,null,null,null,null,null,null,null,null,null,null,100.00,null,null
+Rhinolophus ferrumequinum,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,100.00,null
+Mesocricetus auratus,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,100.00
